@@ -1,0 +1,5 @@
+{
+    "python.pythonPath": "C:\\Users\\user\\Anaconda3\\python.exe",
+    "appService.defaultWebAppToDeploy": "/subscriptions/2ffe8326-de40-4485-8f35-51c23efa4543/resourceGroups/MyGrop/providers/Microsoft.Web/sites/PythonFinalProjectFlask",
+    "appService.deploySubpath": ""
+}
